@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{230BCF0E-4A0E-E89B-DFE2-93AE1FE73173}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TencentGameplay",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
